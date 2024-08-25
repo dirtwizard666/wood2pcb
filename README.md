@@ -1,6 +1,8 @@
 # wood2pcb
 
+![](qrcode-page-wood2pcb.png)
 
+![](qrcode-wood2pcb.png)
 
 ![](https://raw.githubusercontent.com/lafefspietz/wood2pcb/main/wood2pcb-stick.png)
 
